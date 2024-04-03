@@ -2,8 +2,8 @@
 
 
 ## application_record.csv		
-ID:	Client number	
-CODE_GENDER:	Gender	
+ID:	Client number
+CODE_GENDER:	Gender
 FLAG_OWN_CAR:	Is there a car	
 FLAG_OWN_REALTY:	Is there a property	
 CNT_CHILDREN:	Number of children	
