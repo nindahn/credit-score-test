@@ -1,4 +1,4 @@
-# credit-score-test
+# Credit Card Approval Prediction
 2022
 
 ## application_record.csv		
