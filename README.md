@@ -1,4 +1,4 @@
-# Credit Card Approval Prediction
+# Predicting the Approval of Credit Cards
 2022
 
 ## application_record.csv		
@@ -32,3 +32,4 @@ STATUS:	0: 1-29 days past due <br />
         5: Overdue or bad debts, write-offs for more than 150 days <br />
         C: paid off that month <br />
         X: No loan for the month <br />
+data from https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/data
